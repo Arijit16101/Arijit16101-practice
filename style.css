@@ -1,0 +1,25 @@
+body{
+
+}
+.orange-color{
+    color: orange;
+}
+.flex-container{
+    display: flex;
+}
+.width-half{
+    width: 50%;
+}
+.width-half img{
+    width: 80%;
+}
+.button{
+    color: white;
+    background-image: linear-gradient(red, blue);
+    padding: 10px 40px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.heading{
+    font-size: 50px;
+}
